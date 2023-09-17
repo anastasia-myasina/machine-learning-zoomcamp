@@ -1,0 +1,15 @@
+pandas version:1.5.2
+
+How many columns are in the dataset?: 10
+
+Which columns in the dataset have missing values?: total_bedrooms
+
+How many unique values does the ocean_proximity column have?: 5
+
+What's the average value of the median_house_value for the houses located near the bay?: 259212(.31)
+
+Calculate the average of total_bedrooms column in the dataset: 537.871 // 538
+
+Has it changed?: No
+
+What's the value of the last element of w?: 5.6992
