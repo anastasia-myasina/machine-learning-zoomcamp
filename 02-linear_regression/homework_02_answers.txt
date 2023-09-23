@@ -1,0 +1,17 @@
+Q1: There's one feature with missing values. What is it?
+>>> total_bedrooms
+
+Q2: What's the median (50% percentile) for variable 'population'?
+>>> 1195
+
+Q3: Which option gives better RMSE?
+>>> Both are equally good
+
+Q4: Which r gives the best RMSE? (If there are multiple options, select the smallest r.)
+>>> 0
+
+Q5: What's the value of std?
+>>> 0.5
+
+Q6: What's the RMSE on the test dataset?
+>>> 0.33
